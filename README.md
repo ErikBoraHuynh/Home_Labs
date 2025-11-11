@@ -1,6 +1,6 @@
 # Homelabs
 
-Welcome to my Homelabs repository! This is a personal cybersecurity lab environment where I explore, experiment, and strengthen my technical skills through **hands-on practice**.  This repository documents my learning journey as I build, test, and secure systems to better understand how real-world cybersecurity concepts are applied.
+This is a personal cybersecurity lab environment where I explore, experiment, and strengthen my technical skills through **hands-on practice**.  This repository documents my learning journey as I build, test, and secure systems to better understand how real-world cybersecurity concepts are applied.
 
 ---
 
