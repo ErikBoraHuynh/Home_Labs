@@ -31,15 +31,15 @@ This repository will cover a range of cybersecurity topics, including:
 
 ---
 
-## Tools & Technologies
+## Tools
 
 Some tools I will be using and documenting in my labs include:
 
-- **Ubuntu**, **Kali Linux**, and **Windows Server**
-- **Wazuh**, **Microsoft Sentinel**, **Security Onion**
-- **Wireshark**, **Nmap**, **Metasploit**, **Burp Suite**
-- **Azure**, **AWS**, **VirtualBox**, **VMware Workstation**
-- **Splunk**, **ELK Stack**, **Sysmon**
+- **VirtualBox**
+- **Ubuntu**, **Kali Linux**, **Windows**
+- **Wazuh**, **Microsoft Sentinel**
+- **Wireshark**, **Nmap**, **Metasploit**
+- **Splunk**, **Sysmon**
 
 ---
 
