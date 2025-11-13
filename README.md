@@ -10,9 +10,9 @@ The goal of this repository is to:
 - Develop **practical experience** in cybersecurity tools, frameworks, and techniques.
 - Reinforce knowledge from **CompTIA Security+**, **networking**, and **incident response** principles.
 - Simulate **real-world attack and defense scenarios** in a controlled, ethical environment.
-- Document findings, configurations, and lessons learned from each lab.
+- Document **findings, configurations, and lessons learned** from each lab.
 - Build a **portfolio of hands-on projects** to demonstrate real-world capability.  
-- Encourage continuous learning and knowledge sharing.
+- Encourage **continuous learning** and knowledge sharing.
 
 ---
 
