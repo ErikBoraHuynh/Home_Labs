@@ -57,7 +57,7 @@
 
 ***
 
-4. On my Windows Host, I configured FIM for my desired directory.
+4. On my Ubuntu VM, I configured FIM for my desired directory.
 
 <img width="911" height="711" alt="5" src="https://github.com/user-attachments/assets/2230404d-ff6a-41c0-93de-219ed13c2c79" />
 
