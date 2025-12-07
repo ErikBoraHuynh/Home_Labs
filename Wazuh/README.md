@@ -18,8 +18,6 @@
 
 - **File Integrity Monitoring (FIM)**: Implemented FIM rules to monitor file changes, additions, and deletions on the Windows system. 
 
-- **Log Analysis & Alert Management**: Analyzed alerts generated from monitored files and tuned rules for relevant detections. 
-
 ### Tools Used
 
 - Ubuntu VM
