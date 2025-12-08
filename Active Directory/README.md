@@ -107,7 +107,7 @@ I logged back in as the newly installed Domain Controller administrator account 
 
 I configured RRAS to allow devices in the internal network to connect to the internet through the Windows Server 2019 VM/our Domain Controller.
 
-#### Important Note for RRAS on a Domain Controller
+##### Important Note for RRAS on a Domain Controller
 
 Configuring RRAS on a Domain Controller to route internal network traffic to the Internet is not recommended in real-world or production environments. Domain Controllers are security-critical systems, and exposing them to routing functions increases the attack surface, complicates hardening, and violates best-practice network design. Ideally, a dedicated router/firewall VM would act as the gateway for the Windows 10 Client VM to access the Internet.
 
