@@ -78,8 +78,7 @@ And because I did not configure port forwarding:
 - Outbound traffic from our Windows Server 2019 VM / Domain Controller and Windows 10 VM / Client is allowed.
 - Only inbound **response** traffic (for requests the Windows Server 2019 VM / Domain Controller and Windows 10 VM / Client initiated) is allowed.
 
-Thus, for the purposes of this homelab demonstration this setup is acceptable. The goal here is strictly to showcase and understand how internal clients can route traffic through a Windows Server acting as both a domain controller and a router/NAT device.
-
+Thus, for the purposes of this homelab demonstration this setup is acceptable. The goal here is strictly to showcase and develop a strong foundational understanding of the objectives listed at the top of this README.md.
 ***
 
 **1. Oracle VirtualBox: Windows Server 2019 VM Configuration**
