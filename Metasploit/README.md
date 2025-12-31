@@ -10,7 +10,7 @@
 
 ### Skills Learned
 
-- **Metasploit Utilization:** Leveraged Metasploit to host a malicious payload, deliver it to the victim, and establish a reverse shell—demonstrating how red teams use offensive tooling during engagements.
+- **Metasploit Utilization:** Leveraged Metasploit to host a malicious payload, deliver it to the victim, and establish a reverse shell to demonstrate how red teams use offensive tooling during engagements.
 
 - **Red Team Cyber Kill Chain Framework Practice:** Followed a structured sequence mirroring real-world operations, including reconnaissance, weaponization, delivery, exploitation, installation, command & control, and post-exploitation enumeration.
 
