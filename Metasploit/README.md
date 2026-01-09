@@ -57,7 +57,7 @@ I opened Command Prompt to scan the victim machine's ports and download my paylo
   
 Entered `ifconfig` to check my Kali Linux VM / Attacker's IP address.
   
-Entered `nmap -A 192.168.20.10 -Pn` to scan all the ports of my Windows 10 VM to identify if any are open.
+Entered `nmap -A 192.168.20.10 -Pn` to scan all the ports of my Windows 10 VM / Victim to identify if any are open.
   
 Entered `msfvenom -l payloads` to list the available malware or payloads to use
 
