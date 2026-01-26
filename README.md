@@ -1,4 +1,4 @@
-# Homelabs
+# Home labs
 
 Welcome to my Homelabs repository where I document completed and ongoing homelabs to strengthen my technical skills through hands-on experience.
 
