@@ -125,7 +125,9 @@ I opened Task Manager to confirm that resume.pdf.exe was running in the backgrou
 
 ***
 
-**6. Kali Linux VM / Attacker: Post-Exploitation Enumeration
+**6. Kali Linux VM / Attacker: Post-Exploitation Enumeration**
+
+Entered 'shell' to establish a shell on the Windows 10 VM / Victim's machine.
 
 Entered `net user` to list the Windows 10 VM / Victim's local user accounts.
 
@@ -139,3 +141,6 @@ With the reverse shell established, we successfully demonstrated a red-team styl
 <img width="1278" height="798" alt="6 1" src="https://github.com/user-attachments/assets/3f524e54-167a-4d35-9201-c62a62d48aa6" />
 <img width="1278" height="798" alt="6 2" src="https://github.com/user-attachments/assets/854756d9-7e13-4f83-a20f-e7bbb9040561" />
 <img width="1279" height="799" alt="6 3" src="https://github.com/user-attachments/assets/2d255c80-6535-4cc2-81e7-823b2d0293ed" />
+
+***
+
